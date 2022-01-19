@@ -1,0 +1,13 @@
+.first-screen{
+   padding-top: 70px;
+   background: #000;
+   position: relative;
+   top: 0;
+   right: 0;
+}
+@import "./header";
+@import "./subheader";
+@import "./about";
+@import "./team";
+@import "./services";
+@import "./footer"
